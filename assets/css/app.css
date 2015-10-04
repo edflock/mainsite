@@ -1,0 +1,39 @@
+body{
+	font-family: 'Raleway', sans-serif;
+}
+
+.navbar-default{
+	background-color: #ffffff;
+}
+
+.contlist h4{
+	font-weight: bold;
+}
+
+.contlist{
+	text-align: center;
+}
+
+.jumbotron{
+	background-color: #347b74;
+	color:#ffffff;
+}
+
+.iconfeatures{
+	text-align: center;
+}
+
+.iconfeatures .glyphicon{
+	font-size: 45px;
+	color: #cccccc;
+}
+
+.titlesection{
+	padding: 60px 10px 0 40px;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.iconfeatures{
+	padding-top: 35px;
+}
